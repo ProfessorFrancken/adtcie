@@ -24,7 +24,10 @@
 | What time is it?                                 | Bel idun en voor de tijd                                                            |             |        |      |               |      |
 | +1/2/3/n                                         | Streep voor (2/3/4/n+1) mensen in 1 minuut, eindigend met jezelf                    |             |        |      |               |      |
 | Ik lees hem heus wel                             | Lees de ledenmailing (2 / 4 / 8) keer                                               |             |        |      |               |      |
-| best dishes                                      | doe de afwas in de Franckenkamer                                                    |             |        |      |               |      |
+| Brooming business                                | Veeg de kamer                                                                       |             |        |      |               |      |
+| Wishy washy                                      | Dwijl de kamer                                                                      |             |        |      |               |      |
+| Best dishes                                      | doe de afwas in de Franckenkamer                                                    |             |        |      |               |      |
+| Cleanroom                                        | Earn the [Whisy washy], [Best dishes] and [Brooming business]                       |             |        |      |               |      |
 | Bo(a¦re)d                                        | Word bestuur                                                                        |             |        |      |               |      |
 | what do you mean by Jumbo?                       | Streep n eten in een week                                                           |             |        |      |               |      |
 | shooting star                                    | streep n starmix in ..                                                              |             |        |      |               |      |
@@ -65,3 +68,7 @@
 | Practitioner                                     | Be a member of the oefensescie (while doing a phd)                                  |             |        |      |               |      |
 | Frank en Vrij                                    | Mits je ook de Francken Vrij doet                                                   |             |        |      |               |      |
 | Git reckt                                        | gebruik Git met je commissie                                                        |             |        |      |               |      |
+
+* Prices
+
+Gouden afwasborstel
