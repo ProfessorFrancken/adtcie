@@ -68,6 +68,7 @@
 | Practitioner                                     | Be a member of the oefensescie (while doing a phd)                                  |             |        |      |               |      |
 | Frank en Vrij                                    | Mits je ook de Francken Vrij doet                                                   |             |        |      |               |      |
 | Git reckt                                        | gebruik Git met je commissie                                                        |             |        |      |               |      |
+| Tag along                                        | score achievement with a group of more than 3                                       |             |        |      |               |      |
 
 * Prices
 
